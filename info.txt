@@ -1,0 +1,60 @@
+
+// 9-10 am ----- AJAX   ---Tuesday
+// 7-8  evening  ----- Oops   --- Tuesday
+// 5 pm 
+
+// Django
+// React js
+
+
+
+
+vanilla js vs react js 
+
+NAB trade
+1) App  mini app 
+
+
+order pad
+company pages
+investment transfer
+portfolio
+
+// DOM manipulate 
+
+// element
+// create 
+// update 
+// retrive 
+// delete 
+
+// render
+
+// React ----- framework 
+
+//arrangement of files ??
+
+//structure 
+
+// repetation less 
+
+//A)Component based architecture 
+    // UI broke 
+    // Component --- html css js 
+    // code maintain easy
+
+//B)Declarative syntax
+ more outcomes
+
+//C a) Virtual  DOM 
+//  b)Single page application
+
+
+//D)JSX --->> complete html can be maintain in js file 
+
+//E) One way data binding
+
+//F)React Native for Cross -platform Development
+
+
+//G) Community ---- Facebook  - 2011 --- 2013 -- opem
