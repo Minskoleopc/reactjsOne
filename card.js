@@ -6,13 +6,15 @@ export let a = 10
 export let names = ["chinmay","ram","sarika","sachin"]
 // function
 export let cart = []
-export let addtoCard = function(product,quantity){
+export let addtoCard = function(prod,quantity){
     let obj = {}
-    obj[product]= quantity
+    obj[prod]= quantity
     cart.push(obj)
     console.log(`${quantity}${product}`)
-}
 
+
+}
+ 
 
 
 
